@@ -121,7 +121,7 @@ Main Use Cases
 
 Models the main classes, their attributes, operations, and relationships.
 
-<img src="Diagram/class.jpeg" width="400">
+<img src="Diagram/class.jpeg" width="600">
 
 
 The core modeled entities include:
@@ -174,7 +174,7 @@ The project includes activity diagrams for:
 
 The proposed system uses a Layered Architecture to separate system responsibilities and provide a structured foundation for future implementation.
 
-<img src="Diagram/architecture.jpeg" width="400">
+<img src="Diagram/architecture.jpeg" width="250">
 
 ⸻
 
