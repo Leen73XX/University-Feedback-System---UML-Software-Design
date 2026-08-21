@@ -103,7 +103,7 @@ Provides a high-level view of the proposed system and its interactions with exte
 
 Defines the main actors and functionalities of the system, including interactions between students, staff, and system services.
 
-<img src="Diagram/use_case.jpeg" width="180">
+<img src="Diagram/use_case.jpeg" width="250">
 
 Main Use Cases
 * Create Account
@@ -121,8 +121,10 @@ Main Use Cases
 
 Models the main classes, their attributes, operations, and relationships.
 
-The core modeled entities include:
+<img src="Diagram/class.jpeg" width="400">
 
+
+The core modeled entities include:
 * Student
 * Request
 * Staff
@@ -134,13 +136,17 @@ The core modeled entities include:
 
 Sequence diagrams were created to demonstrate how system components interact over time during important operations.
 
-Submit Request
+#### Submit Request
+<img src="Diagram/sequence_1.jpeg" width="250">
 
-Create Account
+#### Create Account
+<img src="Diagram/sequence_2.jpeg" width="250">
 
-Track Request Status
+#### Track Request Status
+<img src="Diagram/sequence_3.jpeg" width="250">
 
-Handle Request
+#### Handle Request
+<img src="Diagram/sequence_4.jpeg" width="250">
 
 ⸻
 
@@ -150,16 +156,25 @@ Activity diagrams model the workflow and decision flow of major system processes
 
 The project includes activity diagrams for:
 
-* Create Account
-* Submit Request
-* Track Request Status
-* Rate the Quality of Responses
+#### Create Account
+<img src="Diagram/activity_1.jpeg" width="180">
+
+#### Submit Request
+<img src="Diagram/activity_2.jpeg" width="180">
+
+#### Track Request Status
+<img src="Diagram/activity_3.jpeg" width="180">
+
+#### Rate the Quality of Responses
+<img src="Diagram/activity_4.jpeg" width="180">
 
 ⸻
 
 ### 🏗️ System Architecture
 
 The proposed system uses a Layered Architecture to separate system responsibilities and provide a structured foundation for future implementation.
+
+<img src="Diagram/architecture.jpeg" width="400">
 
 ⸻
 
