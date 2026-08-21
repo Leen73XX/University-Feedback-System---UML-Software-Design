@@ -94,7 +94,7 @@ The project uses several diagrams to model the system from different perspective
 
 ### 1. Context Diagram
 
-<img src="Diagram/context.jpeg" width="180">
+<img src="Diagram/context.jpeg" width="250">
 Provides a high-level view of the proposed system and its interactions with external systems.
 
 ⸻
@@ -103,8 +103,9 @@ Provides a high-level view of the proposed system and its interactions with exte
 
 Defines the main actors and functionalities of the system, including interactions between students, staff, and system services.
 
-Main Use Cases
+<img src="Diagram/use_case.jpeg" width="180">
 
+Main Use Cases
 * Create Account
 * Submit Request
 * Track Request Status
