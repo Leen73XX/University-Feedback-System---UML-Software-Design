@@ -94,6 +94,7 @@ The project uses several diagrams to model the system from different perspective
 
 ### 1. Context Diagram
 
+<img src="Diagram/context.jpeg" width="180">
 Provides a high-level view of the proposed system and its interactions with external systems.
 
 ⸻
